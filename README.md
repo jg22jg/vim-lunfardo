@@ -3,7 +3,7 @@
 This repository contains a small PowerShell script, `bootstrap.ps1`, that sets up the **vim-lunfardo** configuration on **Windows** so your Vim/Neovim experience matches your Linux setup.
 
 The script is a Windows-friendly version of the original bash installer.
-Inspired by the original vim-lunfardo project created by
+Inspired by the original vim-lunfardo project created by unbalancedparentheses.
 
 `https://github.com/unbalancedparentheses/vim-lunfardo`
 
